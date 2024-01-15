@@ -1,1 +1,1 @@
-My home tasks from Front-End Pro Course.
+My home tasks from Front-End Pro course
