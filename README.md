@@ -1,1 +1,1 @@
-My home tasks from Front-End Pro course
+My home tasks from Front-End Pro course at Hillel IT School
